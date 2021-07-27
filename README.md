@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hola Soy Jose Carballo 👋
 
+
+##Full Stack DeveloperJr mi fuerte es React.js 
+y su State Management "Redux" y todas sus 
+nuevas características como lo son los 
+"Hooks". También tengo experiencia 
+configurando BackEnd con node y express y 
+su integración con MongoDB, PostgresSQL
+además de las distintas herramientas para 
+realizar maquetados dinámicos sobre sitios 
+web. Estoy dispuesto a aprender nuevas 
+tecnologías de ser necesario.
 <!--
 **Carballo-jc/Carballo-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
