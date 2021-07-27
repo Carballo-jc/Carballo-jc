@@ -13,8 +13,8 @@ web. Estoy dispuesto a aprender nuevas
 tecnologías de ser necesario.
 
 
-##### Tengo conociemientos en diversas tegnologia para el desarrollo web tales como :
-#### React,JavaScript,Node,Express,PostgresSQL,MongoDB,MSQL,Git,Html5,Css3,Sass,Less,MaterialUI,Bootstrap,
+## Tengo conociemientos en diversas tecnologia para el desarrollo web tales como :
+### React,JavaScript,Node,Express,PostgresSQL,MongoDB,MSQL,Git,Html5,Css3,Sass,Less,MaterialUI,Bootstrap,
 <!--
 **Carballo-jc/Carballo-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
