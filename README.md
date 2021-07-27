@@ -7,7 +7,8 @@
 ### Recidencia: Buenos Aires Argentina Capital Federal
 
 ## Skills :
-### React,JavaScript,Node,Express,PostgresSQL,MongoDB,MSQL,Git,Html5,Css3,Sass,Less,MaterialUI,Bootstrap,
+### React, JavaScript, Node, Express, PostgresSQL, 
+### MongoDB,MSQL,Git,Html5,Css3,Sass,Less,MaterialUI,Bootstrap, entre otros.
 ### Si desean Contactarme:
 ##### 📫 Email: jczord23@gmail.com
 ##### 📫 Email: jczord@gmail.com
