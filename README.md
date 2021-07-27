@@ -8,10 +8,11 @@
 
 ## Skills :
 ### React, JavaScript, Node, Express, PostgresSQL, 
-### MongoDB,MSQL,Git,Html5,Css3,Sass,Less,MaterialUI,Bootstrap, entre otros.
+### MongoDB, MSQL, Git, Html5, Css3, Sass, Less, MaterialUI, Bootstrap, entre otros.
 ### Si desean Contactarme:
 ##### 📫 Email: jczord23@gmail.com
 ##### 📫 Email: jczord@gmail.com
+##### WhatsApp: 1128710065
 ##### LinkeDin: https://www.linkedin.com/in/jose-alberto-carballo-rojas-31b606165/
 <!--
 **Carballo-jc/Carballo-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
