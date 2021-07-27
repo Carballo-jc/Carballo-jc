@@ -4,11 +4,9 @@
 # Full Stack Developer Jr 
 💬 Les Comento:
 ### Mi fuerte es React.js con su State Management "Redux" y todas sus nuevas características como lo son los "Hooks". También tengo experiencia configurando BackEnd con node y express y su integración con MongoDB, PostgresSQL además de las distintas herramientas para realizar maquetados dinámicos sobre sitios web.Estoy dispuesto a aprender nuevas tecnologías de ser necesario.
+### Recidencia: Buenos Aires Argentina Capital Federal
 
-### Recidencia:
-Buenos Aires Argentina Capital Federal
-
-## Tengo conociemientos en diversas tecnologia para el desarrollo web tales como :
+## Skills :
 ### React,JavaScript,Node,Express,PostgresSQL,MongoDB,MSQL,Git,Html5,Css3,Sass,Less,MaterialUI,Bootstrap,
 ### Si desean Contactarme:
 ##### 📫 Email: jczord23@gmail.com
