@@ -1,8 +1,8 @@
 ### Hola Soy Jose Carballo 👋
 
 
-## Full Stack DeveloperJr mi fuerte es React.js 
-y su State Management "Redux" y todas sus 
+# Full Stack Developer Jr 
+Mi fuerte es React.js y su State Management "Redux" y todas sus 
 nuevas características como lo son los 
 "Hooks". También tengo experiencia 
 configurando BackEnd con node y express y 
