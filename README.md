@@ -4,7 +4,7 @@
 # Full Stack Developer Jr 
 💬 Les Comento:
 ### Mi fuerte es React.js con su State Management "Redux" y todas sus nuevas características como lo son los "Hooks". También tengo experiencia configurando BackEnd con Node y Express y su integración con MongoDB, PostgresSQL además de las distintas herramientas para realizar maquetados dinámicos sobre sitios web.Estoy dispuesto a aprender nuevas tecnologías de ser necesario.
-### Recidencia: Buenos Aires Argentina Capital Federal
+### Residencia: Buenos Aires Argentina Capital Federal
 
 ## Skills :
 ### React, JavaScript, Node, Express, PostgresSQL, 
